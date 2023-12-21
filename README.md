@@ -1,4 +1,4 @@
-# Experiment--03-Half-Subtractor-and-Full-subtractor
+# Experiment--04-Half-Subtractor-and-Full-subtractor
 # Name: Gnanendran N
 # Reference Number: 23006661
 ## Implementation-of-Half-subtractor-and-Full-subtractor-circuit
